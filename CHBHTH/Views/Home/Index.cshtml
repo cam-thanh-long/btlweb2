@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Shop Thuốc Sâu & Phân Bón";
+
+    Layout = "~/Views/Shared/_LayoutClient2.cshtml";
+}
+@using CHBHTH.Models;
+
+<br />
+
+    @Html.Action("thuocsaupartial", "sanpham")
+
+    @Html.Action("phanbonpartial", "sanpham")
+
+    @Html.Action("khacpartial", "sanpham")
+
+
