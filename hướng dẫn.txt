@@ -1,0 +1,9 @@
+1, Import file backup CHBHTH.bak
+2, Thay đổi đường dẫn database trong webconfig
+3, Tài khoản
+	a, user
+		-Tài khoản: nguyenvana@gmail.com
+		-Mật khẩu: 123456
+	b, Admin
+		-Tài khoản: Admin@gmail.com
+		-Mật khẩu: 1
